@@ -3,3 +3,4 @@
 ## Board
 | Method | Params | Returns |
 |-|-|-|
+| Insert | (x,y)   | - |

@@ -1,4 +1,5 @@
 # Web Chess API
 
-# Board
-| method | params | returns |
+## Board
+| Method | Params | Returns |
+|-|-|-|
